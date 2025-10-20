@@ -48,7 +48,7 @@ src/main/java/br/com/sorteio
 ├── dao           // (Data Access Object) A camada de persistência, onde vamos usar o JPA puro
 ├── model         // Nossas entidades, como o Aluno
 ├── service       // A camada com a lógica de negócio (o sorteio em si)
-└── GeradorGruposApplication.java // Classe principa
+└── GeradorGruposApplication.java // Classe principal
 </code></pre>
 
 ## ⚙️ Configuração e Instalação
