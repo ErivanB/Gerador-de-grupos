@@ -14,7 +14,7 @@ Um sistema CRUD desenvolvido em Java com Spring Boot para divisão aleatória de
 
 ## 🛠 Tecnologias Utilizadas
 
-+ Java 17
++ Java 21
 
 + Spring Boot 3.2.0
 
@@ -55,7 +55,7 @@ src/main/java/br/com/sorteio
 
 *Pré-requisitos*
 
-+ Java 17 ou superior
++ Java 21 ou superior
 
 + MySQL 8.0 ou superior
 
